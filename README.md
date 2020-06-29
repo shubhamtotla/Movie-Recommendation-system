@@ -1,0 +1,1 @@
+Built a Movie recommendation system that take various parameters as input and predict movies to the user. It also uses knowledge of user?s past purchase/selection or similar decisions by other users to recommend products.
